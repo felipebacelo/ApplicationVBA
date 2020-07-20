@@ -2,6 +2,7 @@
 ![GitHub](https://img.shields.io/github/license/felipebacelo/Sistema_Cadastro?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/felipebacelo/Sistema_Cadastro?style=for-the-badge)
 ![GitHub All Releases](https://img.shields.io/github/downloads/felipebacelo/Sistema_Cadastro/total?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/felipebacelo?style=for-the-badge)
 
 # Sistema_Cadastro
 Sistema de Cadastro - VBA Excel com Banco de Dados Access SQL
