@@ -64,7 +64,7 @@ Nesta tela o usuário possui acesso a todas as informações disponíveis, de ac
 
 ![PRINT_SENHAS](https://github.com/felipebacelo/Sistema_Cadastro/blob/master/IMAGES/PRINT_SENHAS.png)
 
-5º Passo - O usuário nível 4 é o único com permissão para adicionar, editar e remover demais usuários no sistema através do Gerenciador de Usuários:
+5º Passo - O usuário nível 4 é o único com permissão para adicionar, editar e deletar demais usuários no sistema através do Gerenciador de Usuários:
 
 ![PRINT_USUÁRIOS](https://github.com/felipebacelo/Sistema_Cadastro/blob/master/IMAGES/PRINT_USU%C3%81RIOS.png)
 
