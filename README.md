@@ -8,6 +8,10 @@
 Sistema de Cadastro - VBA Excel com Banco de Dados Access SQL
 
 O Sistema de Cadastro foi desenvolvido a partir do modelo de cadastro físico do programa Cidade Legal, seguindo o conteúdo padrão do mesmo, a partir do conceito CRUD (Create, Read, Update, Delete), que representa em acrônimo as quatro operações básicas utilizadas em bases de dados relacionais fornecidas aos utilizadores do sistema.
+
+### Desenvolvimento
+
+Desenvolvido em Microsoft VBA Excel com banco de dados em Microsoft Access SQL.
 ***
 ### Requisitos
 
@@ -26,7 +30,7 @@ O Sistema de Cadastro foi desenvolvido a partir do modelo de cadastro físico do
 
 ### Compatibilidade
 
-Este sistema de cadastro foi criado no Excel 2019 (64 bits) e testado no Excel 2013 (64 bits). Sua compatibilidade é garantida para a versão 2013 e superiores. Sua utilização em versões anteriores pode ocasionar em não funcionamento do mesmo.
+Este sistema de cadastro foi desenvolvido no Excel 2019 (64 bits) e testado no Excel 2013 (64 bits). Sua compatibilidade é garantida para a versão 2013 e superiores. Sua utilização em versões anteriores pode ocasionar em não funcionamento do mesmo.
 
 ### Usabilidade
 
