@@ -4,10 +4,10 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/felipebacelo/Sistema_Cadastro/total?style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/felipebacelo?style=for-the-badge)
 
-# Sistema_Cadastro
-Sistema de Cadastro - VBA Excel com Banco de Dados Access SQL
+# ApplicationVBA
+Aplicação em VBA Excel com Banco de Dados Access SQL
 
-O Sistema de Cadastro foi desenvolvido a partir do modelo de cadastro físico do programa Cidade Legal, seguindo o conteúdo padrão do mesmo, a partir do conceito CRUD (Create, Read, Update, Delete), que representa em acrônimo as quatro operações básicas utilizadas em bases de dados relacionais fornecidas aos utilizadores do sistema.
+A aplicação foi desenvolvida a partir do modelo de cadastro físico do programa Cidade Legal, seguindo o conteúdo padrão do mesmo, a partir do conceito CRUD (Create, Read, Update, Delete), que representa em acrônimo as quatro operações básicas utilizadas em bases de dados relacionais fornecidas aos utilizadores do sistema.
 
 ### Desenvolvimento
 
@@ -30,13 +30,13 @@ Desenvolvido em Microsoft VBA Excel com banco de dados em Microsoft Access SQL.
 
 ### Compatibilidade
 
-Este sistema de cadastro foi desenvolvido no Excel 2019 (64 bits) e testado no Excel 2013 (64 bits). Sua compatibilidade é garantida para a versão 2013 e superiores. Sua utilização em versões anteriores pode ocasionar em não funcionamento do mesmo.
+Esta aplicação foi desenvolvida no Excel 2019 (64 bits) e testado no Excel 2013 (64 bits). Sua compatibilidade é garantida para a versão 2013 e superiores. Sua utilização em versões anteriores pode ocasionar em não funcionamento do mesmo.
 
 ### Usabilidade
 
 Para utilizar o sistema de cadastro o usuário deverá:
 
-* Realizar o download do arquivo ZIP: __Sistema_Cadastro__.
+* Realizar o download do arquivo ZIP: __ApplicationVBA__.
 * Salvar o arquivo __SISTEMA DE CADASTRO.xlsm__ e __BD SISTEMA DE CADASTRO.accdb__ na mesma pasta de trabalho.
 
 ### Usuários e Senhas
