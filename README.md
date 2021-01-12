@@ -52,25 +52,25 @@ Os usuários e senhas pré-definidas são:
 
 1º Passo - Abrir o arquivo __SISTEMA DE CADASTRO.xlsm__ com usuário e senha:
 
-![LOGIN](https://github.com/felipebacelo/Sistema_Cadastro/blob/master/IMAGES/LOGIN.png)
+![LOGIN](https://github.com/felipebacelo/Sistema_Cadastro/blob/master/IMAGENS/LOGIN.png)
 
 2º Passo - Após realizar o login, a tela a ser exibida será a seguinte:
 
-![CADASTRAR](https://github.com/felipebacelo/Sistema_Cadastro/blob/master/IMAGES/CADASTRAR.png)
+![CADASTRAR](https://github.com/felipebacelo/Sistema_Cadastro/blob/master/IMAGENS/CADASTRAR.png)
 
 Nesta tela o usuário possui acesso a todas as informações disponíveis, de acordo com seu nível de usuário, determinado pelo usuário ADM.
 
 3º Passo - Além de cadastrar o usuário também conseguirá realizar consulta a itens já cadastrados anteriormente, através de um filtro avançado:
 
-![CONSULTAR](https://github.com/felipebacelo/Sistema_Cadastro/blob/master/IMAGES/CONSULTAR.png)
+![CONSULTAR](https://github.com/felipebacelo/Sistema_Cadastro/blob/master/IMAGENS/CONSULTAR.png)
 
 4º Passo - O usuário poderá redefinir sua senha atual a qualquer momento, através do Gerenciador de Senhas:
 
-![SENHAS](https://github.com/felipebacelo/Sistema_Cadastro/blob/master/IMAGES/SENHAS.png)
+![SENHAS](https://github.com/felipebacelo/Sistema_Cadastro/blob/master/IMAGENS/SENHAS.png)
 
 5º Passo - O usuário nível 4 é o único com permissão para adicionar, editar e deletar demais usuários no sistema através do Gerenciador de Usuários:
 
-![USUÁRIOS](https://github.com/felipebacelo/Sistema_Cadastro/blob/master/IMAGES/USU%C3%81RIOS.png)
+![USUÁRIOS](https://github.com/felipebacelo/Sistema_Cadastro/blob/master/IMAGENS/USU%C3%81RIOS.png)
 
 ***
 ### Exemplos de Macros Utilizadas
