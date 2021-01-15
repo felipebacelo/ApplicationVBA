@@ -1,8 +1,8 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/felipebacelo/Sistema_Cadastro?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/felipebacelo/Sistema_Cadastro?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/felipebacelo/Sistema_Cadastro?style=for-the-badge)
-![GitHub All Releases](https://img.shields.io/github/downloads/felipebacelo/Sistema_Cadastro/total?style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/felipebacelo?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/felipebacelo/ApplicationVBA?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/felipebacelo/ApplicationVBA?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/felipebacelo/ApplicationVBA?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/felipebacelo/ApplicationVBA?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/felipebacelo/ApplicationVBA?style=for-the-badge)
 
 # ApplicationVBA
 Aplicação em VBA Excel com Banco de Dados Access SQL
@@ -76,7 +76,7 @@ Nesta tela o usuário possui acesso a todas as informações disponíveis, de ac
 ### Exemplos de Macros Utilizadas
 
 Macro utilizada para conexão com banco de dados Microsoft Access SQL:
-```
+```vba
 Option Explicit
 Global BD As New ADODB.Connection
 
@@ -99,7 +99,7 @@ End Sub
 ```
 
 Macro utilizada para edição dos registros salvos no banco de dados Microsoft Access SQL:
-```
+```vba
 Sub EDITARREGISTROS(ID As Long, TODASCOLUNAS As String, REGISTRO() As String)
 
 Dim SQL As String
