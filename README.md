@@ -1,8 +1,10 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/felipebacelo/ApplicationVBA?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/felipebacelo/ApplicationVBA?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/felipebacelo/ApplicationVBA?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/felipebacelo/ApplicationVBA?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/felipebacelo/ApplicationVBA?style=for-the-badge)
+<p align="center">
+<a href= "https://img.shields.io/github/repo-size/felipebacelo/ApplicationVBA?style=for-the-badge"><img src="https://img.shields.io/github/repo-size/felipebacelo/ApplicationVBA?style=for-the-badge"/></a>
+<a href= "https://img.shields.io/github/languages/count/felipebacelo/ApplicationVBA?style=for-the-badge"><img src="https://img.shields.io/github/languages/count/felipebacelo/ApplicationVBA?style=for-the-badge"/></a>
+<a href= "https://img.shields.io/github/forks/felipebacelo/ApplicationVBA?style=for-the-badge"><img src="https://img.shields.io/github/forks/felipebacelo/ApplicationVBA?style=for-the-badge"/></a>
+<a href= "https://img.shields.io/bitbucket/pr-raw/felipebacelo/ApplicationVBA?style=for-the-badge"><img src="https://img.shields.io/bitbucket/pr-raw/felipebacelo/ApplicationVBA?style=for-the-badge"/></a>
+<a href= "https://img.shields.io/bitbucket/issues/felipebacelo/ApplicationVBA?style=for-the-badge"><img src="https://img.shields.io/bitbucket/issues/felipebacelo/ApplicationVBA?style=for-the-badge"/></a>
+</p>
 
 # ApplicationVBA
 Aplicação em VBA Excel com Banco de Dados Access SQL
@@ -73,9 +75,9 @@ Nesta tela o usuário possui acesso a todas as informações disponíveis, de ac
 ![USUÁRIOS](https://github.com/felipebacelo/Sistema_Cadastro/blob/master/IMAGENS/USU%C3%81RIOS.png)
 
 ***
-### Exemplos de Macros Utilizadas
+### Exemplos de Códigos Utilizados
 
-Macro utilizada para conexão com banco de dados Microsoft Access SQL:
+Código utilizado para conexão com banco de dados Microsoft Access SQL:
 ```vba
 Option Explicit
 Global BD As New ADODB.Connection
@@ -98,7 +100,7 @@ BD.Open CS
 End Sub
 ```
 
-Macro utilizada para edição dos registros salvos no banco de dados Microsoft Access SQL:
+Código utilizado para edição dos registros salvos no banco de dados Microsoft Access SQL:
 ```vba
 Sub EDITARREGISTROS(ID As Long, TODASCOLUNAS As String, REGISTRO() As String)
 
